@@ -1,0 +1,50 @@
+<NotepadPlus>
+    <AutoComplete>
+        <KeyWords name="Zig">
+            <KeyWord name="fn" />
+            <KeyWord name="pub" />
+            <KeyWord name="struct" />
+            <KeyWord name="const" />
+            <KeyWord name="var" />
+            <KeyWord name="if" />
+            <KeyWord name="else" />
+            <KeyWord name="for" />
+            <KeyWord name="while" />
+            <KeyWord name="break" />
+            <KeyWord name="continue" />
+            <KeyWord name="return" />
+            <KeyWord name="true" />
+            <KeyWord name="false" />
+            <KeyWord name="null" />
+            <KeyWord name="import" />
+            <KeyWord name="export" />
+            <KeyWord name="using" />
+            <KeyWord name="as" />
+            <KeyWord name="extern" />
+            <KeyWord name="inline" />
+            <KeyWord name="defer" />
+            <KeyWord name="comptime" />
+        </KeyWords>
+    </AutoComplete>
+    <UserLang name="Zig" ext="zig" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">&quot;0&quot; &quot;1&quot; &quot;2&quot; &quot;3&quot; &quot;4&quot; &quot;5&quot; &quot;6&quot; &quot;7&quot; &quot;8&quot; &quot;9&quot; &quot;.&quot; &quot;,&quot; &quot;;&quot; &quot;:&quot; &quot;+&quot; &quot;-&quot; &quot;*&quot; &quot;/&quot; &quot;=&quot; &quot;&lt;&quot; &quot;&gt;&quot; &quot;(&quot; &quot;)&quot; &quot;[&quot; &quot;]&quot; &quot;{&quot; &quot;}&quot; &quot;@&quot; &quot;#&quot; &quot;$&quot; &quot;%&quot; &quot;^&quot; &quot;&amp;&quot; &quot;|&quot; &quot;_&quot; &quot;~&quot; &quot;`&quot; &quot;!&quot; &quot;?&quot; &quot;.&quot; &quot;,&quot; &quot;;&quot; &quot;:&quot; &quot;+&quot; &quot;-&quot; &quot;*&quot; &quot;/&quot; &quot;=&quot; &quot;&lt;&quot; &quot;&gt;&quot; &quot;(&quot; &quot;)&quot; &quot;[&quot; &quot;]&quot; &quot;{&quot; &quot;}&quot; &quot;@&quot; &quot;#&quot; &quot;$&quot; &quot;%&quot; &quot;^&quot; &quot;&amp;&quot; &quot;|&quot; &quot;_&quot; &quot;~&quot; &quot;`&quot; &quot;!&quot; &quot;?&quot;</Keywords>
+            <Keywords name="Folder+"></Keywords>
+            <Keywords name="Folder-"></Keywords>
+            <Keywords name="Operators">+ - * / % & | ^ ~ ! = &lt; &gt;</Keywords>
+            <Keywords name="Comment">1 2</Keywords>
+            <Keywords name="Words1">fn pub struct const var if else for while break continue return true false null</Keywords>
+            <Keywords name="Words2">import export using as extern inline defer comptime</Keywords>
+            <Keywords name="Words3">switch enum union</Keywords>
+            <Keywords name="Words4">catch try defer errdefer</Keywords>
+            <Keywords name="Words5">align packed extern export noalias noinline nosuspend inline noreturn</Keywords>
+            <Keywords name="Words6">switch enum union</Keywords>
+            <Keywords name="Words7"></Keywords>
+            <Keywords name="Words8"></Keywords>
+        </KeywordLists>
+    </UserLang>
+</NotepadPlus>
